@@ -2,3 +2,4 @@ first text file for git
 edit 1
 new branch
 yet another one
+git merge done
